@@ -1,4 +1,6 @@
+link to AI doc:
 
+https://chatgpt.com/c/6717b947-28dc-8006-90bd-a26496fc675a
 
 
 ### Example: Document Procedures for a Bakery
